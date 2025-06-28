@@ -3,15 +3,6 @@
 **Daily Press** is a modern Flutter news application that brings you the latest **breaking news**, **trending headlines**, and **category-specific stories** from across the globe. Built using [NewsAPI](https://newsapi.org/), the app offers a smooth and beautiful user experience with responsive layouts, image caching, and webview integration.
 
 ---
-
-## 📱 Screenshots
-
-| Landing Page | Home | Categories | Article View |
-|--------------|------|------------|---------------|
-| ![Landing](images/screens/landing.png) | ![Home](images/screens/home.png) | ![Categories](images/screens/categories.png) | ![Article](images/screens/article.png) |
-
-> *(Replace the screenshot paths above with your actual images in `images/screens/` folder.)*
-
 ---
 
 ## ✨ Features
