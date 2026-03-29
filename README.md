@@ -3,17 +3,18 @@
 **Daily Press** is a modern Flutter news application that brings you the latest **breaking news**, **trending headlines**, and **category-specific stories** from across the globe. Built using [NewsAPI](https://newsapi.org/), the app offers a smooth and beautiful user experience with responsive layouts, image caching, and webview integration.
 
 ---
-![welcomeScreen](https://github.com/user-attachments/assets/89d57f53-80c3-426c-bce5-c1392cf8535a)
-![generalScreen](https://github.com/user-attachments/assets/07fa8380-ade8-4d4f-85d8-6867406123b7)
-![HomePage](https://github.com/user-attachments/assets/e0fb3bea-40e7-43ef-bd28-7b3f722d762f)
-![homePageDown](https://github.com/user-attachments/assets/48e2e32f-aacf-4eef-bc8e-30d85f93bd91)
-![BreakingNews](https://github.com/user-attachments/assets/a6425cb2-6800-4ceb-a575-91853194a9a1)
-![Business](https://github.com/user-attachments/assets/60c93658-8877-4538-99b7-415bb68f8e22)
-![entertainment](https://github.com/user-attachments/assets/fec22eb3-63d0-43b4-800b-adb1a7adf0f4)
-![health](https://github.com/user-attachments/assets/3a6e18ad-c907-4a8e-a6d9-7a25890f3315)
-![sports](https://github.com/user-attachments/assets/6d9c648a-f42b-4338-bb62-b4d350bf64bc)
-![trendingNews](https://github.com/user-attachments/assets/4412137d-c399-45b7-a0b8-876d2a8ebb63)
-![webview](https://github.com/user-attachments/assets/b36bd1ed-ff45-4169-bb38-3a261a996ea4)
+<img src="https://github.com/user-attachments/assets/89d57f53-80c3-426c-bce5-c1392cf8535a" alt="welcomeScreen" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/07fa8380-ade8-4d4f-85d8-6867406123b7" alt="generalScreen" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/e0fb3bea-40e7-43ef-bd28-7b3f722d762f" alt="HomePage" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/48e2e32f-aacf-4eef-bc8e-30d85f93bd91" alt="homePageDown" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/a6425cb2-6800-4ceb-a575-91853194a9a1" alt="BreakingNews" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/60c93658-8877-4538-99b7-415bb68f8e22" alt="Business" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/fec22eb3-63d0-43b4-800b-adb1a7adf0f4" alt="entertainment" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/3a6e18ad-c907-4a8e-a6d9-7a25890f3315" alt="health" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/6d9c648a-f42b-4338-bb62-b4d350bf64bc" alt="sports" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/4412137d-c399-45b7-a0b8-876d2a8ebb63" alt="trendingNews" width="360" height="800" />
+<img src="https://github.com/user-attachments/assets/b36bd1ed-ff45-4169-bb38-3a261a996ea4" alt="webview" width="360" height="800" />
+
 ---
 
 ## ✨ Features
