@@ -3,17 +3,17 @@
 **Daily Press** is a modern Flutter news application that brings you the latest **breaking news**, **trending headlines**, and **category-specific stories** from across the globe. Built using [NewsAPI](https://newsapi.org/), the app offers a smooth and beautiful user experience with responsive layouts, image caching, and webview integration.
 
 ---
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.41.46_b3d40b38.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.43.08_9f7c2b19.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.43.43_d64b719d.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.44.21_2c0a0a3f.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.44.56_e781c383.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.45.38_bf8f0186.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.46.20_b745ed27.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.46.55_c68cea17.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.47.24_46877bf8.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.48.07_8a065a52.jpg
-https://github.com/rajatdagar2005/MyPortfolioAssets/blob/main/ImagesForPortfolio/DailyPressImages/WhatsApp%20Image%202025-07-21%20at%2015.49.59_71485423.jpg
+![welcomeScreen](https://github.com/user-attachments/assets/89d57f53-80c3-426c-bce5-c1392cf8535a)
+![generalScreen](https://github.com/user-attachments/assets/07fa8380-ade8-4d4f-85d8-6867406123b7)
+![HomePage](https://github.com/user-attachments/assets/e0fb3bea-40e7-43ef-bd28-7b3f722d762f)
+![homePageDown](https://github.com/user-attachments/assets/48e2e32f-aacf-4eef-bc8e-30d85f93bd91)
+![BreakingNews](https://github.com/user-attachments/assets/a6425cb2-6800-4ceb-a575-91853194a9a1)
+![Business](https://github.com/user-attachments/assets/60c93658-8877-4538-99b7-415bb68f8e22)
+![entertainment](https://github.com/user-attachments/assets/fec22eb3-63d0-43b4-800b-adb1a7adf0f4)
+![health](https://github.com/user-attachments/assets/3a6e18ad-c907-4a8e-a6d9-7a25890f3315)
+![sports](https://github.com/user-attachments/assets/6d9c648a-f42b-4338-bb62-b4d350bf64bc)
+![trendingNews](https://github.com/user-attachments/assets/4412137d-c399-45b7-a0b8-876d2a8ebb63)
+![webview](https://github.com/user-attachments/assets/b36bd1ed-ff45-4169-bb38-3a261a996ea4)
 ---
 
 ## ✨ Features
